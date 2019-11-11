@@ -17,6 +17,7 @@ function sayHiToGrandma(string){
     return "I love you, too." //if it is, returns this
     if(string === "I love you, too");
     return "YES INDEED!"
+    if(string.toUpperCase() === string);
   }
 }
 
