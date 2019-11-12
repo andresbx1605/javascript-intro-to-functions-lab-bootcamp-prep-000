@@ -19,7 +19,7 @@ function sayHiToGrandma(string){
 }
 
 (function() {
-  
+  var shout 
 }
   
 
