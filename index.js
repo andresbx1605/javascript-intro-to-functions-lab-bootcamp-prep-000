@@ -19,8 +19,8 @@ function sayHiToGrandma(string){
 }
 
 (function() {
-  var shout = "YES INDEED";
-  console
+  var shout = "YES INDEED!";
+  console.log()
 }
   
 
