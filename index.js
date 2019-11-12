@@ -21,7 +21,7 @@ function sayHiToGrandma(string){
 function shout() {
   var shout = "YES INDEED!";
   console.log(shout);
-  ()}
+  }
   
   
 
