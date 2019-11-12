@@ -18,10 +18,11 @@ function sayHiToGrandma(string){
   }
 }
 
-(function() {
+function shout() {
   var shout = "YES INDEED!";
   console.log(shout);
-  ())}
+  ()}
+  
   
 
 function whisper(string) {
