@@ -21,8 +21,7 @@ function sayHiToGrandma(string){
 (function() {
   var shout = "YES INDEED!";
   console.log(shout);
-  
-}
+  }
   
 
 function whisper(string) {
