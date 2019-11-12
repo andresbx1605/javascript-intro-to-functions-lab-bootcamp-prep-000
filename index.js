@@ -18,7 +18,6 @@ function sayHiToGrandma(string){
   }
 }
 
-var uppercase = "YES INDEED!"
   
   
 
