@@ -18,7 +18,7 @@ function sayHiToGrandma(string){
   }
 }
 
-(function())
+(function() 
   
 
 function whisper(string) {
